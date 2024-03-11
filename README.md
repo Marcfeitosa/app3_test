@@ -1,2 +1,1 @@
-# app3_test
-A test app as part of my learning project
+# This is a study app, used to learn the nuances of Python
